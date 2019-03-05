@@ -53,7 +53,7 @@ For those who have their Github accounts, you can try accessing the Jupyterhub s
 
 ### Creating an account for Google Earth Engine
 In order to use Google Earth Engine, you need to sign up for the platform. 
-Click [here](https://waterhackweek.github.io/GoogleEarthEngine/00-access-javascript/) and follow the directions to sign up and gain access to our shared code folder.
+Click [here](https://waterhackweek.github.io/preliminary/02-access-javascript/) and follow the directions to sign up and gain access to our shared code folder.
 
 ### Brushing up on Python
 
