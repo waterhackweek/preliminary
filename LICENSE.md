@@ -6,8 +6,8 @@ permalink: /license/
 
 ## Instructional Material
 
-All geohackweek instructional material is made available under the [Creative Commons Attribution license][cc-by-human]. The following is a human-readable
-summary of (and not a substitute for) the [full legal text of the CC BY 4.0 license][cc-by-legal].
+All Waterhackweek instructional material is made available under the [Creative Commons Attribution license][cc-by-human]. The following is a human-readable
+summary of (and not a substitute for) the [full legal text of the CC BY 4.0 license][cc-by-legal]. Sites have been updated from Geohackweek instructional material [https://geohackweek.github.io/preliminary/]. 
 
 You are free:
 
@@ -45,7 +45,7 @@ Notices:
 ## Software
 
 Except where otherwise noted, the example programs and other software
-provided by geohackweek are made available under the
+provided by Waterhackweek are made available under the
 [OSI][osi]-approved
 [MIT license][mit-license].
 
@@ -74,10 +74,10 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 The templates used to create these lessons were created by [Software
 Carpentry](http://software-carpentry.org/). See AUTHORS for a list of contributors to the template. In accordance with the terms of the
 original license, the changes made are documented in the version control history
-of this repository, and other repositories in [the geohackweek github website][ghw-github].
+of this repository, and other repositories.
 
 [cc-by-human]: https://creativecommons.org/licenses/by/4.0/
 [cc-by-legal]: https://creativecommons.org/licenses/by/4.0/legalcode
 [mit-license]: http://opensource.org/licenses/mit-license.html
 [osi]: http://opensource.org
-[ghw-github]: http://github.com/geohackweek
+[ghw-github]: http://github.com/waterhackweek

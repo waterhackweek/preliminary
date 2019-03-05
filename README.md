@@ -1,4 +1,4 @@
-# Pre-event material for geohackweek
+# Pre-event material for Waterhackweek
 
 These are files to build a github website hosting the [Waterhackweek](https://waterhackweek.github.io/) introductory [tutorial](https://waterhackweek.github.io/preliminary). Github automatically renders these files using Ruby to build the website.
 
