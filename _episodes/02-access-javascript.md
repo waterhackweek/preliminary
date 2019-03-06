@@ -17,7 +17,7 @@ keypoints:
 
 Please complete this tutorial before arriving at Waterhackweek. Use the steps below to get registered for a Google Earth Engine account and to join our shared repository.
 
-### 1. Registering for a Google Earth Engine account
+### Registering for a Google Earth Engine account
 
   - Go the the [GEE sign up page](https://signup.earthengine.google.com/#!/) and enter > the email you want to use for your GEE account. A gmail is best if you have one.
   - Enter your email, your affiliation and country/region. Where it asks what you want to accomplish, mention you are at Waterhackweek at the University of Washington.
@@ -26,18 +26,7 @@ Please complete this tutorial before arriving at Waterhackweek. Use the steps be
 
 Not sure if you have access? Use [this link](https://code.earthengine.google.com/) to check. If you didn't get access you will get an authorization error that says your account isn't registered. If you do have access, the link will open up the Javascript IDE. This link is your permanent portal to GEE access.
 
-### 2. Joining our shared GEE code repository
-
-Google Earth Engine allows you to have shared group folders/repositories for scripts. We've organized the code presented in this tutorial this way. Instead of adding each of your emails one at a time (tedious!), you will instead join a google group that will then allow you access to the shared code repository. Please follow these steps:
-
-   - Don't worry about posting permissions; we won't be posting anything.
-   - Best use the same email as your GEE signup email to avoid conflicts later  
-      
-   - Accept the shared repository by clicking this link [https://code.earthengine.google.com/?accept_repo=users/kuhniculous/geohackweek2018](https://code.earthengine.google.com/?accept_repo=users/kuhniculous/geohackweek2018).
-  
-   - In the code editor, go to the **Scripts tab** in the top left panel, scroll down and expand the "Reader" section. A directory called *geohackweek2018* should appear with read-only versions of the full scripts from each episode.
-
-### 3. Javascript Tips
+###  Javascript Tips
 
 JavaScript, not to be confused with Java, is a programming language widely used in web development alongside HTML and CSS. You can teach yourself JavaScript using any number of online tutorials, such as those offered by [w3schools](https://www.w3schools.com/js/).
 
