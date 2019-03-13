@@ -43,9 +43,13 @@ Here are the system requirements:
 
 Click [here](https://waterhackweek.github.io/preliminary/01-conda-tutorial/) to start our Conda tutorial. Let us know if on Slack you are having problems with installing Conda.
 
+### Sign up for a Hydroshare account
+
+Create a Hydroshare account following these [giudelines](https://help.hydroshare.org/introduction-to-hydroshare/getting-started/create-an-account/) 
+
 ### Getting setup with Git
 
-Be sure to arrive at Waterhackweek with your own [GitHub](https://github.com/) account.
+Be sure to arrive at Waterhackweek with your own [GitHub](https://github.com/) account. We reccomend to watch or re-watch the Waterhackweek git tutorial [video](https://youtu.be/Bc5BO9gPC9w) and check out the [slides](https://github.com/waterhackweek/git_practice/blob/master/Git-Waterhackweek-Slides.pdf) as needed.
 
 ### Getting setup with JupyterHub 
 
